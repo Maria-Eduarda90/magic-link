@@ -6,9 +6,9 @@
 - chakra-ui
 - TypeScript
 
-## Getting Started
+## Como rodar o projeto?
 
-First, run the development server:
+Primeiro, execute o servidor de desenvolvimento:
 
 ```bash
 npm run dev
